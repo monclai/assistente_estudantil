@@ -4,6 +4,8 @@
 
 <!-- ![Capa - App ajuste de iluminação](https://github.com/monclai/bora_codar_24_ajuste_iluminacao/assets/44307789/6efc3c55-d484-44d6-8f5b-5d6988cd01ab#vitrinedev) -->
 
+![Capa - App ajuste de iluminação](https://github.com/monclai/assistente_estudantil/blob/main/public/Captura%20de%20tela%20de%202024-05-10%2021-25-09.png) 
+
 ![typescript](https://img.shields.io/badge/LANGUAGE-typescript-blue)
 ![python](https://img.shields.io/badge/LANGUAGE-python-blue)
 ![Reactjs](https://img.shields.io/badge/LIBRARY-ReactJS-blue)
