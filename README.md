@@ -22,6 +22,8 @@ que grande parte dos jovens utilizam mais smartphones e computadores. Esse assis
 
 Também foi desenvolvido uma versão em python no qual é possível realizar ajustes no código.
 
+Acesse o site: [assistente estudantil](https://assistente-estudantil.vercel.app/)
+
 ## Status do Projeto
 
 ✔️ Projeto concluído
